@@ -1,0 +1,10 @@
+C:\Users\Администратор\source\repos\Boomber\bin\Debug\Boomber.exe.config
+C:\Users\Администратор\source\repos\Boomber\bin\Debug\Boomber.exe
+C:\Users\Администратор\source\repos\Boomber\bin\Debug\Boomber.pdb
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.Form1.resources
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.exe
+C:\Users\Администратор\source\repos\Boomber\obj\Debug\Boomber.pdb
